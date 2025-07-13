@@ -1,8 +1,8 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: 感谢访问我的个人站
+description: 故事从这里开始。
+slug: begin
+date: 2021-09-01 00:00:00+0000
 image: cover.jpg
 categories:
     - 随笔
