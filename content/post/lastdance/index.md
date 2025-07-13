@@ -2,7 +2,7 @@
 title: Last Dance Goes on——我的s12观赛感想
 description: 2022年s赛决赛前写的内容，至今回想起那次s赛仍然心潮澎湃。现在也许再也没有那样的热情去关注lol赛事了。
 slug: lastdance
-date: 2022-11-2 21:25:00+0000
+date: 2022-11-02 21:25:00+0000
 image: cover.jpg
 categories:
     - 随笔
