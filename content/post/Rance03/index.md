@@ -5,9 +5,9 @@ slug: rance03
 date: 2024-11-11 22:13:00+0000
 image: cover.jpg
 categories:
-    - galgame
+    - 游戏簿
 tags:
-    - 兰斯, 随笔
+    - 游戏簿
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
