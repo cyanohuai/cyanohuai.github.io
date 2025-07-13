@@ -8,17 +8,17 @@
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/62843646?spm_id_from=333.1387.fans.user_card.click"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-bilibili"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "tiktok"
+name = "Tiktok"
+url = "https://www.douyin.com/user/MS4wLjABAAAA_1XRGVfXPTvHaBHpQbsMo2jrpax9cu0YQ1u9JsnCkPE?from_tab_name=main"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-tiktok"

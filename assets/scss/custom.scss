@@ -1,3 +1,8 @@
 /*
     You can add your own custom styles here.
 */
+/* 只隐藏 About Me 页的标题 */
+.page-about-me .page-title {
+  display: none;
+}
+
