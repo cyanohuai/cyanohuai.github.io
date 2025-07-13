@@ -9,6 +9,7 @@ categories:
 tags:
     - 随笔
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+---
 
 刚才发随想的时候从b站草稿箱里翻出来的s12决赛前写的观赛感想，干脆一起发出来算了。一想到deft要去服兵役了更是唏嘘不已，一位传奇的时代过去了，而lol的故事也似乎已经来到尾声了。
 
