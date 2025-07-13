@@ -2,7 +2,7 @@
 title: 我的《对马岛之魂：导演剪辑版》游玩随想
 description: 本文为本人游玩《对马岛之魂：导演剪辑版》后的一点杂乱无章的感想，仅供自娱自乐。
 slug: tsushima
-date: 2025-05-30 00:00:00+0000
+date: 2025-05-30 15:13:00+0000
 image: cover.jpg
 categories:
     - 游戏簿

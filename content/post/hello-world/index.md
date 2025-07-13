@@ -11,10 +11,10 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+你好，这里是秦淮。这是我的个人网站，用于更新一些个人随笔和各类作品的点评，请多指教。
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+由于发的很多是存货，配图更新可能还要一段时间，发现缺少图片的地方还请谅解。
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+本人写作能力很差，而且很多是无病呻吟，还请见谅。
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+感谢访问！
